@@ -18,4 +18,8 @@ function inc(num){
   return num+=1;
 }
 
-function dec
+function dec(num){
+  return num-=1;
+}
+
+function makeInt(){}
