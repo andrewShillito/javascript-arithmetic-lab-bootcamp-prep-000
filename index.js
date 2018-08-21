@@ -26,3 +26,6 @@ function makeInt(str){
   return parseInt(str, 10);
 }
 
+function preserveDecimal(num){
+  return parseFloat(num);
+}
