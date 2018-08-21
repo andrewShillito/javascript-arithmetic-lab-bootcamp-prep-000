@@ -14,4 +14,8 @@ function multiply(a, b){
   return a*b;
 }
 
-function 
+function inc(num){
+  return num+=1;
+}
+
+function dec
